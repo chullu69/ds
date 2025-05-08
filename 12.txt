@@ -9,3 +9,10 @@ object HelloWorld {
     println(s"The sum of $a and $b is $sum")
   }
 }
+
+
+the following are the commands
+vi main.scala
+:wq
+scalac main.scala
+scala HelloWorld
